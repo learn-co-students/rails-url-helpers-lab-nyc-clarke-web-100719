@@ -24,7 +24,7 @@ In this lab you will be building out the Student management dashboard for the Fl
 
 - Read the failing tests and modify the code until they pass.
 
-## Keep in mind
+##a Keep in mind
 
 - Make sure the show path is `/students/:id`, where `:id` is a route variable.
 
